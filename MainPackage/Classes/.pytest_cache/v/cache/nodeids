@@ -1,0 +1,5 @@
+[
+  "test_class.py::test_deck_size",
+  "test_class.py::test_suffle_deck_size",
+  "test_class.py::test_shuffle"
+]
